@@ -1,2 +1,8 @@
 /intro/
-'Modelo de apresentação - PI Ambientação.pptx'
+
+**/intro
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.pptx
